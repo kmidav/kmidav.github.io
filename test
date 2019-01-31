@@ -1,0 +1,76 @@
+<!-- BEGIN (write your solution here) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Summary</title>
+	<link rel="stylesheet" href="main.css">
+
+</head>
+<body>
+	<div id="header">
+		<h1>Vadim Kor</h1>
+		<h3>Студент</h3>
+		<p>
+			<a href="mailto:ron_hon@mai.ru"></a>
+			<a href="http://warkorstand000.ru"></a>
+		</p>
+	</div>
+
+	<div id="main">
+
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, non doloremque laboriosam unde sapiente facilis dolorem culpa itaque doloribus fugit asperiores minus suscipit provident, neque ipsum quos velit minima architecto laudantium odit, adipisci, soluta modi. Magni distinctio quae veritatis obcaecati, repellat, enim natus tempora! Fuga quas assumenda cupiditate explicabo est?
+		</p>
+		<section>
+			<h2>Опыт работы</h2>
+			<article>
+				<h3>Lorem ipsum. <br><span>Lorem ipsum dolor sit amet, consectetur.</span></h3>
+				<ul>
+					<li>Lorem ipsum dolor.</li>
+					<li>Lorem ipsum dolor.</li>
+				</ul>
+			</article>
+			<article>
+				<h3>Lorem ipsum. <br><span>Lorem ipsum dolor sit amet, consectetur.</span></h3>
+				<ul>
+					<li>Lorem ipsum dolor.</li>
+					<li>Lorem ipsum dolor.</li>
+					<li>Lorem ipsum dolor.</li>
+				</ul>
+			</article>
+		</section>
+		<section>
+			<h2>Образование</h2>
+			<article>
+				<h3>Lorem ipsum dolor.  <br><span>Lorem ipsum dolor sit amet, consectetur.</span></h3>
+			</article>
+			<article>
+				<h3>Lorem ipsum dolor.  <br><span>Lorem ipsum dolor sit amet, consectetur.</span></h3>
+			</article>
+		</section>
+		<section>
+			<h2>Другие навыки и увлечения</h2>
+			<article>
+				<h3>Lorem ipsum. <br><span>Lorem ipsum dolor sit amet, consectetur.</span></h3>
+				<ul>
+					<li>Lorem ipsum dolor.</li>
+					<li>Lorem ipsum dolor.</li>
+					<li>Lorem ipsum dolor.</li>
+				</ul>
+			</article>
+		</section>
+	</div>
+
+
+	<div id="footer">
+		<section>
+			<h2>Vadim Kor</h2>
+			<span>ул.Королева, 12, Архангельск, Россия</span>
+			<span>+79533159451</span>
+			<span><a href="mailto:ron_hon@mai.ru"></a></span>
+		</section>
+	</div>
+</body>
+
+<!-- END -->
